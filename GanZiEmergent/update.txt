@@ -1,7 +1,7 @@
 ﻿{
 	"versionCode": 27,
 	"version": "1.0.27",
-	"url": "https://raw.githubusercontent.com/AriesHoo/LSFireSupervise/master/GanZiEmergent/version/v1.0.19.apk",
-	"message": "1、新版本测试\n2、戏班测试",
+	"url": "https://raw.githubusercontent.com/AriesHoo/LSFireSupervise/master/GanZiEmergent/version/v1.0.27.apk",
+	"message": "1、新增版本更新\n2、修改若干已知BUG",
 	"force": false
 }
